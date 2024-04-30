@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=mikechikwanda&icon=0&color=3)](https://visitcount.itsvg.in) <br/>
-Hi, I'm Mike - Junior Developer👋🏾
-
-My goal is to have fun making the web and sharing my work with everyone.
+Hi, I'm Mike - Junior Web-Developer👋🏾 <br/>
+My goal is to have fun making the web and sharing my work with everyone.<br/>
 Welcome aboard!
 
 # Tech Stack:
@@ -12,8 +11,8 @@ Welcome aboard!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikechikwanda&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikechikwanda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mikechikwanda&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mikechikwanda&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
