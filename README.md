@@ -1,8 +1,20 @@
 ## About
 [![](https://visitcount.itsvg.in/api?id=mikechikwanda&icon=0&color=3)](https://visitcount.itsvg.in) <br/>
-### Hi, I'm Mike - Frontend Developer👋🏾 <br/>
-My goal is to have fun creating cool stuff for the web and sharing my work with everyone.<br/>
-Welcome aboard!
+### Hi, I'm Mike 👋🏾 <br/>
+Economics grad transitioning to Backend Development by passion.
 
-### HTML | CSS | SASS | Tailwind | JavaScript | TypeScript | React | Next.jx | Firebase
+What I’m Doing:
+
+1. Building backend systems with Python, Flask, and SQL.
+2. Exploring Django for rapid development (batteries included).
+3. Mastering Data Structures & Algorithms skills.
+
+
+THE BIGGER PICTURE:
+
+Blending my Statistics (Economics) prowess with coding to add a flair of Machine Learning for  smarter web experiences.
+
+Let's Connect!
+
+### Python | Javascript | SQL | Django 
 
