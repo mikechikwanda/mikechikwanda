@@ -1,27 +1,59 @@
-# My Data Analyst Journey 🚀
+# Data Journey 🚀
 
 ## About
+Hi ✋🏽, 
 
-This repo documents my journey to becoming a data analyst. I cover tools and concepts I am learning while providing links to resources and material I'm using.
+Welcome to my data-journey repo! 🚀 In this space, I share all the cool stuff I'm learning while building projects, tackling challenges, and growing as a Data Analyst. Checkout my progress so far.
+
+---
 
 ## Learning Goals
 
-- [ ] Excel basics and data cleaning
-- [ ] SQL query writing
-- [ ] Power BI dashboards
-- [ ] Python for data analysis
+- [ ] Excel basics and data cleaning  
+- [ ] SQL query writing  
+- [ ] Power BI dashboards  
+- [ ] Python for data analysis  
 
-## Exercises
-### 1. [Excel](https://github.com/mikechikwanda/data-journey/tree/main/excel)
-- [Payroll Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/payroll)
-- [Gradebook Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/gradebook)
-- [Career Excercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/career)
-- [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
+---
 
-## Capstone Projects
+## Table of Contents
 
-- coming soon!
+1. [Excel](https://github.com/mikechikwanda/data-journey/tree/main/excel)
+   - [Payroll Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/payroll)  
+   - [Gradebook Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/gradebook)  
+   - [Career Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/career)  
+   - [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)  
+   
+2. [SQL](#)  
+3. [Power BI](#)  
+4. [Python](#)
 
-## Reflections
+---
 
-Check the weekly-notes folder for progress and some of the challenges I faced.
+## Milestone Reflections
+
+- **Coming soon! 🚧**
+
+  
+### [SQL Reflection](#)  
+### [Power BI Reflection](#)  
+### [Python Reflection](#)  
+
+---
+
+## Capstone Projects 🏆
+
+- **Coming soon! 🚧**
+
+---
+
+## Resources and Useful Links 📚
+- [FreeCodeCamp Data Analysis Course](https://www.freecodecamp.org)  
+- [Excel Jet Tutorials](https://www.exceljet.net)  
+
+---
+
+## Future Plans
+- Complete milestones in my roadmap  
+- Create 3-5 portfolio-ready capstone projects  
+- Code my own portfolio with Flask/FastAPI  
