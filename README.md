@@ -12,11 +12,11 @@ This repo documents my journey to becoming a data analyst. I cover tools and con
 - [ ] Python for data analysis
 
 ## Exercises
-1. Excel [Link](https://github.com/mikechikwanda/data-journey/tree/main/excel)
-- Payroll Exercise [Link](https://github.com/mikechikwanda/data-journey/tree/main/excel/payroll)
-- Gradebook Exercise  [Link](https://github.com/mikechikwanda/data-journey/tree/main/excel/gradebook)
-- Career Excercise [Link](https://github.com/mikechikwanda/data-journey/tree/main/excel/career)
-- Sales Exercise  [Link](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
+### 1. [Excel](https://github.com/mikechikwanda/data-journey/tree/main/excel)
+- [Payroll Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/payroll)
+- [Gradebook Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/gradebook)
+- [Career Excercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/career)
+- [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
 
 ## Capstone Projects
 
