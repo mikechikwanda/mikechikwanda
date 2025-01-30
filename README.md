@@ -2,7 +2,7 @@
 
 ## About
 
-This repo documents my journey to becoming a data analyst. I cover tools and concepts I am learning...providing links to resources I'm using along the way.
+This repo documents my journey to becoming a data analyst. I cover tools and concepts I am learning while providing links to resources and material I'm using.
 
 ## Learning Goals
 
@@ -12,7 +12,6 @@ This repo documents my journey to becoming a data analyst. I cover tools and con
 - [ ] Python for data analysis
 
 ## Exercises
-
 - coming soon
 
 ## Capstone Projects
