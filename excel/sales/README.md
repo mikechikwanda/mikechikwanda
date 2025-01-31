@@ -14,5 +14,4 @@ This exercise is more comprehensive with around 172 rows of data. The task is to
 
 ### Reference
 
-Link to the dataset used is also in this video provided in link below
-[Link](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=2133s)
+[Video with dataset](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=2133s)
