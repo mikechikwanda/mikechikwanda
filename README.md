@@ -9,7 +9,7 @@ Welcome to my data-journey repo! 🚀 In this space, I share all the cool stuff 
 
 ## Learning Goals
 
-- [ ] Excel basics and data cleaning  
+- [X] Excel basics and data cleaning  
 - [ ] SQL query writing  
 - [ ] Power BI dashboards  
 - [ ] Python for data analysis  
@@ -22,7 +22,8 @@ Welcome to my data-journey repo! 🚀 In this space, I share all the cool stuff 
    - [Payroll Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/payroll)  
    - [Gradebook Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/gradebook)  
    - [Career Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/career)  
-   - [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)  
+   - [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
+   - [Car Database](https://github.com/mikechikwanda/data-journey/tree/main/excel/car_database)
 
 ---
 
