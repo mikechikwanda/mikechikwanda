@@ -1,18 +1,14 @@
-# Data Journey 
-
-## About
-Hello World👋🏽, 
-
-Welcome to my data-journey repo! 🚀 In this space, I share all the cool stuff I'm learning while building projects, tackling challenges, and growing as a Data Analyst. Checkout my progress so far.
+# Hi there👋🏽,
+Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool stuff I'm learning while building projects and growing in the data world. Follow along!
 
 ---
 
 ## Learning Goals
 
-- [X] Excel basics and data cleaning  
-- [ ] SQL query writing  
-- [ ] Power BI dashboards  
-- [ ] Python for data analysis  
+✅ Excel & data cleaning  
+🔲 SQL queries  
+🔲 Power BI  
+🔲 Python 
 
 ---
 
@@ -42,8 +38,8 @@ Welcome to my data-journey repo! 🚀 In this space, I share all the cool stuff 
 
 ## Future Plans
 - Complete milestones in my roadmap  
-- Create 3-5 portfolio-ready capstone projects  
-- Code my own portfolio with Flask/FastAPI
+- Create 3-5 portfolio-ready capstone projects 
+- Code my own portfolio with FastAPI
   
 ---
 
