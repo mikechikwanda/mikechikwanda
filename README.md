@@ -20,7 +20,7 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
    - [Career Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/career)  
    - [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
    - [Car Database](https://github.com/mikechikwanda/data-journey/tree/main/excel/car_database)
-   - [Bike Sales Dashboard](https://github.com/mikechikwanda/data-journey/tree/main/excel/car_database)
+   - [Bike Sales Dashboard](https://github.com/mikechikwanda/data-journey/tree/main/excel/bikes)
 
 ---
 
