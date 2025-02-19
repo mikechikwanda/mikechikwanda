@@ -21,7 +21,6 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
    - [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
    - [Car Database](https://github.com/mikechikwanda/data-journey/tree/main/excel/car_database)
    - [Bike Sales Dashboard](https://github.com/mikechikwanda/data-journey/tree/main/excel/bikes)
-
 ---
 
 ## Milestone Reflections
@@ -33,7 +32,7 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
 
 ## Capstone Projects 🏆
 
-- **Coming soon!**
+- [Excel- Super Store Dataset](https://github.com/mikechikwanda/mikechikwanda/tree/main/excel/capstone_project)
 
 ---
 
