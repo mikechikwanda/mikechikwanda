@@ -32,7 +32,7 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
 
 ## Capstone Projects 🏆
 
-- [Excel- Super Store Dataset](https://github.com/mikechikwanda/mikechikwanda/tree/main/excel/capstone_project)
+- [Super_Store Dashboard In Excel](https://github.com/mikechikwanda/mikechikwanda/tree/main/excel/capstone_project)
 
 ---
 
