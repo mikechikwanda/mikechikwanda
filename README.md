@@ -28,7 +28,7 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
 ## Capstone Projects 🏆
 
 - [Super_Store Dashboard In Excel](https://github.com/mikechikwanda/mikechikwanda/tree/main/excel/capstone_project)
-  <img src="https://raw.githubusercontent.com/mikechikwanda/mikechikwanda/394e7e32502037b415da4117132041664059ce3e/Superstore_dashboard.png" alt="Capstone Screenshot" width="500"/>
+- <img src="https://raw.githubusercontent.com/mikechikwanda/mikechikwanda/394e7e32502037b415da4117132041664059ce3e/Superstore_dashboard.png" alt="Capstone Screenshot" width="500"/>
 
 ---
 
