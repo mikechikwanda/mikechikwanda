@@ -1,4 +1,4 @@
-# Data Analyst Bootcamp
+# SQL SERIES
 
 # About
 
