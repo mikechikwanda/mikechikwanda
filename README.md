@@ -7,7 +7,7 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
 ## Learning Goals
 
 ✅ Excel & data cleaning  
-🔲 SQL queries  
+✅ SQL queries  
 🔲 Power BI  
 🔲 Python
 
@@ -22,6 +22,9 @@ Mike here - BCom Economics (Hons) grad and Data Enthusiast. I'll be sharing cool
    - [Sales Exercise](https://github.com/mikechikwanda/data-journey/tree/main/excel/sales)
    - [Car Database](https://github.com/mikechikwanda/data-journey/tree/main/excel/car_database)
    - [Bike Sales Dashboard](https://github.com/mikechikwanda/data-journey/tree/main/excel/bikes)
+
+2. [SQL](https://github.com/mikechikwanda/mikechikwanda/tree/main/sql)
+   - [SQL Basics](https://github.com/mikechikwanda/mikechikwanda/tree/main/sql/basics)
 
 ---
 
