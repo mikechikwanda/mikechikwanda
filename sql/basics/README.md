@@ -1,13 +1,9 @@
-# Job Postings
+# Data Analyst Bootcamp
 
 # About
 
-This is from Luke's 4 hour turial on SQL, The tutorial starts with SQLite and escalates things to PostgreSQL. Things to learn;
-
-- SELECT, FROM, WHERE, ORDER BY, GROUP BY, HAVING
-- Comparison Operators
-- Logical Operators
+Thid follows a data analyst bootcamp by Alex the analyst. Most of the exercises here are in reference to the bootcamp, link is availabe below.
 
 ### Reference
 
-[Luke Barousse](https://www.youtube.com/watch?v=7mz73uXD9DA&t=2443s)
+[Alex The Analyst](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
