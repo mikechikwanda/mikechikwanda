@@ -55,3 +55,26 @@ FROM employee_salary
 WHERE salary > 70000
 ORDER BY first_name, last_name;
 
+-- case statements
+
+SELECT 
+	CONCAT(first_name, ' ', last_name) as full_name,
+    salary as sal,
+CASE
+	WHEN salary > 50000 THEN salary * 1.05
+    WHEN salary < 50000 THEN salary * 1.07
+    ELSE salary
+END as new_salary,
+CASE 
+	WHEN dept_id = 6 THEN salary * 1.10
+END as bonus
+FROM employee_salary;
+
+-- sub queries
+SELECT CONCAT(first_name,' ',last_name) AS full_names
+FROM employee_demographics
+WHERE employee_id IN 
+	(SELECT employee_id
+    FROM employee_salary
+    WHERE employee_id = 1)
+;
