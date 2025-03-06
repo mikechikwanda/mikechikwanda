@@ -1,4 +1,5 @@
-select * from employee_demographics;
+-- advance section
+SELECT * from employee_demographics;
 
 -- cte
 WITH cte_eg AS
