@@ -1,7 +1,7 @@
 -- advance section
 SELECT * from employee_demographics;
 
--- cte
+-- cte/ common table expressions
 WITH cte_eg AS
 (
 SELECT gender, AVG(salary) as avg_sal, MAX(salary) AS max_sal, MIN(salary) as min_sal, COUNT(salary) as tot_sal
