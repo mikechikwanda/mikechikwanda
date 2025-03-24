@@ -11,7 +11,7 @@ Data Analyst building with SQL & Power BI- flirting with ML for fun😉!
 
 ## Projects
 
-1. - [Excel - Superstore Dashboard](https://github.com/mikechikwanda/mikechikwanda/tree/main/excel/capstone_project)
+1. - [Excel - Superstore Dashboard](https://github.com/mikechikwanda/mikechikwanda/blob/main/excel/superstore_project.xlsx)
 - <img src="https://raw.githubusercontent.com/mikechikwanda/mikechikwanda/394e7e32502037b415da4117132041664059ce3e/Superstore_dashboard.png" alt="Capstone Screenshot" width="500"/>
 
 2. - [SQL - Superstore Queries](https://github.com/mikechikwanda/mikechikwanda/blob/main/sql/superstore_sql.sql)
