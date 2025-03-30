@@ -17,6 +17,9 @@ Data Analyst building with SQL & Power BI- flirting with ML for fun😉!
 2. - [SQL - Superstore Queries](https://github.com/mikechikwanda/mikechikwanda/blob/main/sql/superstore_sql.sql)
 - <img src="https://github.com/mikechikwanda/mikechikwanda/blob/main/images/superstore_sql_queries.png" alt="Capstone Screenshot" width="500"/>
 
+2. - [PowerBI - Bikeshop Project](https://github.com/mikechikwanda/mikechikwanda/blob/main/powerbi/bikes%20dash.pbix)
+- <img src="https://github.com/mikechikwanda/mikechikwanda/blob/main/images/bikes_store.png" alt="Capstone Screenshot" width="500"/>
+
 ---
 
 ## Coming Up
