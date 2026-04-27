@@ -7,10 +7,10 @@ I'm Mike Chikwanda
 
 ## 🚀 About Me
 
-* 📊 Passionate about turning data into insights
-* 🌱 Currently learning: Data Analysis & Data Science
-* 🔍 Interested in: Data Analytics & Machine Learning
-* 🎯 Goal: Become a Data Analyst / Data Scientist
+* 📊 Bcom Economics (Hons) incl Econometrics, Stats, Calculus
+* 🌱 Currently learning Machine Learning
+* 🔍 Interested in all things Data & Machine Learning
+* 🎯 Goal: Become a Product Data Scientist (Customer Insights)
 
 ---
 
@@ -25,7 +25,7 @@ I'm Mike Chikwanda
 
 ## 📂 Featured Projects
 
-* 📈 **Insurance Price Prediction Using ML** – Explored Linear Regression, Random Forests & XGBoost
+* 📈 **Coming Soon** 
 
 ---
 
@@ -34,7 +34,7 @@ I'm Mike Chikwanda
 * Clean and prepare messy data
 * Analyze datasets to find patterns
 * Create visualizations and dashboards
-* Build beginner machine learning models
+* Build basic machine learning models
 
 ---
 
@@ -45,5 +45,3 @@ I'm Mike Chikwanda
 
 
 ---
-
-⭐ *Always learning, always curios*
