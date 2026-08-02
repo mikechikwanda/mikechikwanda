@@ -1,47 +1,68 @@
-# Hi there 👋
+# Mike Chikwanda
 
-I'm Mike Chikwanda
-📊 Data Enthusiast | 📍 South Africa
-
----
-
-## 🚀 About Me
-
-* 📊 Bcom Economics (Hons) incl Econometrics, Stats, Calculus
-* 🌱 Currently learning Machine Learning
-* 🔍 Interested in all things Data & Machine Learning
-* 🎯 Goal: Become a Product Data Scientist (Customer Insights)
+**Data Analyst | Economics (Hons) | Machine Learning**  
+South Africa
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-* **Languages:** Python, SQL
-* **Data Tools:** Pandas, NumPy, Excel
-* **Visualization:** Matplotlib, Seaborn, Power BI 
-* **Other Tools:** Git & GitHub
+I am a BCom Honours Economics graduate with a strong quantitative foundation in Statistics, Econometrics, Calculus, Linear Algebra, and Data Analysis. I have hands-on experience as a Data Tutor/Facilitator, working with data through cleaning, exploratory analysis, and basic machine learning. I am developing my technical skills in Python, SQL, and machine learning, with a focus on applying data to solve business and economic problems.
 
 ---
 
-## 📂 Featured Projects
+## Technical Skills
 
-* 📈 **Coming Soon** 
+**Programming:** Python, SQL
+
+**Data Analysis:** Pandas, NumPy, Excel, Exploratory Data Analysis, Data Cleaning
+
+**Machine Learning:** Scikit-learn, Regression, Classification, Model Evaluation
+
+**Visualisation:** Matplotlib, Seaborn, Power BI
+
+**Tools:** Jupyter Notebook, Git, GitHub
+
+---
+
+## Featured Projects
+
+### [California Housing Price Prediction](https://github.com/mikechikwanda/ml_journey/tree/main/california_reg)
+
+**Python | Scikit-learn | XGBoost**
+
+An end-to-end regression project focused on predicting California housing prices. Compared baseline and machine learning models using standard regression metrics, with **XGBoost achieving the best predictive performance**.
+
+### [Credit Default Prediction](https://github.com/mikechikwanda/ml_journey/tree/main/uci_log)
+
+**Python | Scikit-learn | Random Forest**
+
+An end-to-end classification project focused on predicting credit default. Compared Logistic Regression and Random Forest using ROC-AUC, with **Random Forest achieving the best overall performance**. Payment history emerged as the strongest predictor of default.
 
 ---
 
-## 📊 What I Do
+## What I Do
 
-* Clean and prepare messy data
-* Analyze datasets to find patterns
-* Create visualizations and dashboards
-* Build basic machine learning models
+- Clean and preprocess datasets
+- Perform exploratory data analysis
+- Identify patterns and generate data-driven insights
+- Build and evaluate machine learning models
+- Create visualisations and dashboards
+- Communicate analytical findings to non-technical audiences
+
+---
+
+## Education
+
+**BCom Honours Economics**  
+Midlands State University | 2014
+
+**CS50x: Introduction to Computer Science**  
+Harvard University | 2024
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-* 📧 Email: [chikwanda.mike@gmail.com](mailto:chikwanda.mike@gmail.com)
-* 💼 LinkedIn: www.linkedin.com/in/mike-chikwanda
-
-
----
+**Email:** chikwanda.mike@gmail.com  
+**GitHub:** [github.com/mikechikwanda](https://github.com/mikechikwanda)
