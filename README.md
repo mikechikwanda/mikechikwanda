@@ -1,6 +1,6 @@
 # Mike Chikwanda
 
-**Data Analyst | Economics (Hons) | Machine Learning**  
+**Data Analyst | BCom Economics (Hons) | Machine Learning**  
 South Africa
 
 ---
